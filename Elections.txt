@@ -1,0 +1,41 @@
+[
+  {
+    "Id": 100,
+    "Name": "ASC Election",
+    "Position": "ASC President",
+    "Candidate": "Kezia Doe Asare",
+    "No of student Votes": 600
+  },
+  {
+    "Id": 101,
+    "Name": "JEC ELection",
+    "Position": "JEC Chairperson",
+    "Candidate": "Nice Cailie",
+    "No of student Votes": 300,
+    "count_of_votes": 1
+  },
+  {
+    "Id": 101,
+    "Name": "JEC ELection",
+    "Position": "JEC Chairperson",
+    "Candidate": "Nice Cailie",
+    "No_student_votes": 300,
+    "Not_voted": 100,
+    "count_of_votes": 1
+  },
+  {
+    "Id": 101,
+    "Name": "JEC ELection",
+    "Position": "JEC Chairperson",
+    "Candidate": "Nice Cailie",
+    "Vote": "Y/N",
+    "count_of_votes": 1
+  },
+  {
+    "Id": 101,
+    "Name": "JEC ELection",
+    "Position": "JEC Chairperson",
+    "Candidate": "Nice Cailie",
+    "count_of_votes": 1
+  }
+]

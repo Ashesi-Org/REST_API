@@ -1,0 +1,9 @@
+[
+  {
+    "studentId": "1",
+    "Name": "DelaliApoh",
+    "Email": "delali.apoh@ashesi.edu.gh",
+    "Year": "2024",
+    "Major": "MIS"
+  }
+]
